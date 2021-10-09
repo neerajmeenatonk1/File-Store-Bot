@@ -9,7 +9,7 @@ This is Telegram Parmanent Files Store Bot by [@ZauteKm](http://t.me/ZauteKm)
 - You can also Do Force Sub to a Channel to allow access the Bot.
 
 ### Demo Bot:
-<a href="https://t.me/usefilestorebot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BetterFileStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_ID` - Get this from [my.telegram.org/app](https://my.telegram.org/app)

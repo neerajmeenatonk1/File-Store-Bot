@@ -28,7 +28,7 @@ This is Telegram Parmanent Files Store Bot by [@ZauteKm](http://t.me/ZauteKm)
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/File-Store-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neerajmeenatonk1/File-Store-Bot)
 
 ## Commands:
 ```
